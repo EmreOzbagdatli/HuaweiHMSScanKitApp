@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yunus\\Desktop\\DefaultView-java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yunus\\.gradle\\caches\\transforms-2\\files-2.1\\af2bc623dd9c47b10816f1d4f9ae5355\\scan-1.2.2.300\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,158,212,276,337,392,451",
+                        "endColumns": "46,55,53,63,60,54,58,44",
+                        "endOffsets": "97,153,207,271,332,387,446,491"
+                    }
+                }
+            ]
+        }
+    ]
+}

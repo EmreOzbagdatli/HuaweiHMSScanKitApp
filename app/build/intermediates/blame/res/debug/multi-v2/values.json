@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yunus\\Desktop\\DefaultView-java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yunus\\Desktop\\DefaultView-java\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,146,193",
+                        "endColumns": "44,45,46,50",
+                        "endOffsets": "95,141,188,239"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yunus\\.gradle\\caches\\transforms-2\\files-2.1\\cb0462f9cde06531444d15108557e7d1\\ml-computer-camera-inner-2.0.1.300\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "732,785,835,894,951,1010",
+                        "endColumns": "52,49,58,56,58,56",
+                        "endOffsets": "780,830,889,946,1005,1062"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yunus\\Desktop\\DefaultView-java\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "76",
+                        "endOffsets": "88"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "1425",
+                        "endColumns": "76",
+                        "endOffsets": "1497"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yunus\\.gradle\\caches\\transforms-2\\files-2.1\\af2bc623dd9c47b10816f1d4f9ae5355\\scan-1.2.2.300\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "244,306,367,427,487,561,627,692,1067,1111,1162,1216,1274,1316,1369,1502,1549,1612,1673,1739,1816,1871,1930,1977",
+                        "endLines": "6,7,8,9,10,11,12,13,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,39",
+                        "endColumns": "61,60,59,59,73,65,64,39,43,50,53,57,41,52,55,46,62,60,65,76,54,58,46,12",
+                        "endOffsets": "301,362,422,482,556,622,687,727,1106,1157,1211,1269,1311,1364,1420,1544,1607,1668,1734,1811,1866,1925,1972,2123"
+                    }
+                }
+            ]
+        }
+    ]
+}

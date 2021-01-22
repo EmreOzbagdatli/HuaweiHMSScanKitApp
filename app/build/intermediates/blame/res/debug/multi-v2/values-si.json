@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yunus\\Desktop\\DefaultView-java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yunus\\.gradle\\caches\\transforms-2\\files-2.1\\af2bc623dd9c47b10816f1d4f9ae5355\\scan-1.2.2.300\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,174,240,314,380,435,494",
+                        "endColumns": "47,70,65,73,65,54,58,54",
+                        "endOffsets": "98,169,235,309,375,430,489,544"
+                    }
+                }
+            ]
+        }
+    ]
+}
